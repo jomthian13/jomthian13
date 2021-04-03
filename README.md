@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate on ... React JS
 - 🤔 I’m looking for help with ... firebase
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Facebook (https://web.facebook.com/Jomthian/)]
+- 📫 How to reach me: ... [Facebook](https://web.facebook.com/Jomthian/)
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I am a Cat slave
 
