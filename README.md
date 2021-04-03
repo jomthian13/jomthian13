@@ -1,10 +1,10 @@
-- 🔭 I’m currently working on ... amazon clone
+- 🔭 I’m currently working on ... Amazon clone
 - 🌱 I’m currently learning ... React JS
 - 👯 I’m looking to collaborate on ... React JS
-- 🤔 I’m looking for help with ... firebase
+- 🤔 I’m looking for help with ... Firebase
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Facebook](https://web.facebook.com/Jomthian/)
-- 😄 Pronouns: ... He/him
+- 😄 Pronouns: ... He
 - ⚡ Fun fact: ... I am a Cat slave
 
 <!--
